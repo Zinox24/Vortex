@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://cnvf0knmgkvoa"]
+
+[ext_resource type="PackedScene" uid="uid://0j8owfciej5s" path="res://Models/CYBER GILR MODEL FREE 3d by Ocsar Creativo.fbx" id="1_4flbx"]
+
+[node name="Player" type="Node3D" unique_id=1537178835]
+
+[node name="CYBER GILR MODEL FREE 3d by Ocsar Creativo" parent="." unique_id=930490992 instance=ExtResource("1_4flbx")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.10151005, 0, -1.0686522)
